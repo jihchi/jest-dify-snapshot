@@ -44,7 +44,9 @@
       "limit": "10 KB"
     }
   ],
-  "peerDependencies": {},
+  "peerDependencies": {
+    "dify-bin": "^0.0.9"
+  },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^4.9.1",
     "husky": "^4.3.6",
